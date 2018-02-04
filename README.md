@@ -8,4 +8,14 @@ This repository contains a Jupyter notebook that describes the data analysis pro
 
 [Link to the full notebook](https://github.com/samyanez94/Titanic-Dataset-Investigation/blob/master/Titanic%20Dataset%20Investigation.ipynb)
 
+## Acknowledgments
+
 The Titanic dataset was provided by [Kaggle](https://www.kaggle.com).
+
+## Author
+
+* Samuel Yanez ~ [samyanez94](https://github.com/samyanez94)
+
+## License
+
+MIT © Samuel Yanez
